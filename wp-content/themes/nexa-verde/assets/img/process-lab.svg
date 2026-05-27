@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+  <rect width="900" height="620" rx="42" fill="#f5fbf7"/>
+  <path d="M90 440 C190 250 300 360 405 215 S635 95 805 250" fill="none" stroke="#00d596" stroke-width="20" stroke-linecap="round"/>
+  <path d="M95 470 C240 510 280 390 430 440 S650 560 805 380" fill="none" stroke="#2c6cff" stroke-width="12" stroke-linecap="round" opacity=".65"/>
+  <g font-family="Arial" font-weight="900" fill="#061f1a">
+    <text x="96" y="120" font-size="54">Audit Lab</text>
+    <text x="100" y="168" font-size="24" fill="#60736e" font-weight="700">process, proof, priorities</text>
+  </g>
+  <g fill="#fff" stroke="#d8ebe4" stroke-width="2">
+    <rect x="95" y="230" width="170" height="110" rx="24"/>
+    <rect x="365" y="150" width="170" height="110" rx="24"/>
+    <rect x="635" y="280" width="170" height="110" rx="24"/>
+  </g>
+  <g font-family="Arial" fill="#061f1a" font-weight="900" font-size="26">
+    <text x="132" y="293">Facts</text>
+    <text x="398" y="213">Map</text>
+    <text x="665" y="343">Launch</text>
+  </g>
+</svg>

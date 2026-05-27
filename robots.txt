@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Sitemap: https://nexa-verde.studio/sitemap.xml
